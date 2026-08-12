@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_app">Weather App</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search_weather">Search Weather</string>
+    <string name="temp_format">%1$d°C</string>
+    <string name="humidity_format">Humidity: %1$d%%</string>
+    <string name="wind_speed_format">Wind Speed: %1$.1f km/h</string>
+    <string name="error_empty_city">Please enter a city name.</string>
+    <string name="error_empty_response">Unexpected empty response from server.</string>
+    <string name="error_city_not_found">City not found. Please check the spelling.</string>
+    <string name="error_invalid_key">Invalid API key.</string>
+    <string name="error_server">Server error (code %1$d). Try again later.</string>
+    <string name="error_network">Network error: %1$s</string>
+    <string name="error_unknown">Something went wrong: %1$s</string>
+</resources>
